@@ -209,7 +209,7 @@ git-archimport[1]
 Import a GNU Arch repository into Git
 
 git-cvsexportcommit[1]
-Export a single commit to a CVS checkout
+Export a single commit to a CVS checkoutt
 
 git-cvsimport[1]
 Salvage your data out of another SCM people love to hate
